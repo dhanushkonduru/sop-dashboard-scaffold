@@ -1,4 +1,4 @@
-# SOP Operations Dashboard — Production Scaffold
+# SOP Operations Dashboard — Production  Scaffold
 
 Full-stack production app: Next.js 14 frontend + FastAPI backend with Redis cache, retry/backoff, and 25+ API integrations.
 
